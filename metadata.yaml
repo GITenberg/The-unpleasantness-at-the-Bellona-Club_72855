@@ -1,0 +1,33 @@
+_repo: The-unpleasantness-at-the-Bellona-Club_72855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sayers, Dorothy L. (Dorothy Leigh)
+    aliases:
+    - Fleming, Dorothy Leigh Sayers
+    - Sayers, Dorothy Leigh
+    birthdate: 1893
+    deathdate: 1957
+    gutenberg_agent_id: '45867'
+    url: http://www.gutenberg.org/2009/agents/45867
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_L._Sayers
+description: ''
+gutenberg_issued: '2024-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72855'
+language: en
+pgterms:marc905: 20230117133132sayers
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bThe Hearst Corporation, $c1928, pubdate 1963,
+  pubdate 1967.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The unpleasantness at the Bellona Club
+url: http://www.gutenberg.org/ebooks/72855
